@@ -14,7 +14,7 @@
     "@supabase/ssr": "^0.5.2",
     "@supabase/supabase-js": "^2.50.0",
     "html2canvas": "^1.4.1",
-    "next": "^15.1.8",
+    "next": "15.1.11",
     "nodemailer": "^8.0.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
